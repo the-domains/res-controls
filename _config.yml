@@ -1,0 +1,28 @@
+name: RES Controls
+favicon: null
+layout_spectrum: 0.5593520877882838
+typography_spectrum: 0.9775015285704285
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.35782127385027707
+  lightness: 0.7383574300911278
+  saturation: 0.409839672036469
+  rhythmicContrast: 0.5428825116250664
+purpose: []
